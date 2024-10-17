@@ -1,2 +1,2 @@
-# VitalHubProject
+# VitalHub 
 Projeto em dupla
